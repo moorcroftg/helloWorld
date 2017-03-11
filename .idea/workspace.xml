@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c90a4ebc-c090-4988-9f05-42e91294b031" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/helloworld/App.java" afterPath="$PROJECT_DIR$/src/main/java/com/helloworld/App.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -378,6 +377,14 @@
       <option name="presentableId" value="Default" />
       <updated>1489055609972</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is a commit. I think">
+      <created>1489253814452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489253814545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,6 +423,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is a commit. I think" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a commit. I think" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -472,6 +483,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
